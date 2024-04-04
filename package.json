@@ -1,0 +1,17 @@
+{
+  "name": "cli-number-guessing-ms176",
+  "version": "1.0.0",
+  "description": "This is CLI based number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qahir Ishaq",
+  "license": "ISC",
+  "dependencies": {
+    "cli-number-guessing.176": "^1.0.0",
+    "inquirer": "^9.2.17"
+  }
+}
